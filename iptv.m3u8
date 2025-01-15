@@ -17,7 +17,8 @@ https://live-evg25.tv360.bitel.com.pe/bitel/latina/bitel/latina_ori_source/chunk
 #http://190.0.241.181:8000/play/a03a/index.m3u8
 #https://live-evg4.tv360.bitel.com.pe/bitel/americatv/bitel/americatv_ori_source/chunks.m3u8
 #https://live-evg25.tv360.bitel.com.pe/bitel/americatv/bitel/americatv_ori_source/chunks.m3u8
-https://live-evg4.tv360.bitel.com.pe/RwvDQYcZfdPBS793sd3ZNA/1736911359/bitel/americatv/bitel/americatv_ori_source/chunks.m3u8
+#https://live-evg4.tv360.bitel.com.pe/RwvDQYcZfdPBS793sd3ZNA/1736911359/bitel/americatv/bitel/americatv_ori_source/chunks.m3u8
+https://live-evg4.tv360.bitel.com.pe/m7HTR6ZmQiATK8oCszOuYQ/1737068514/bitel/americatv/bitel/americatv_ori_source/chunks.m3u8
 #EXTINF:0,PANAMERICANA SD
 #https://cdnhd.iblups.com/hls/ptv5.m3u8
 #https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_480p/chunks.m3u8
@@ -36,7 +37,8 @@ https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/i
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 #EXTINF:0,WILLAX TV
 #https://dai.ly/x7x4dgx
-https://live-evg4.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_source/chunks.m3u8
+#https://live-evg4.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_source/chunks.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_source/chunks.m3u8
 #EXTINF:0,PBO
 https://live-evg25.tv360.bitel.com.pe/bitel/pbo/bitel/pbo_ori_source/chunks.m3u8
 #EXTINF:0,NACIONAL TV PERU
