@@ -194,7 +194,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe5
 #EXTINF:0,ANIMAL PLANET HD
 http://190.0.241.181:8000/play/a00y/index.m3u8
 #EXTINF:0,LOVE NATURE HD
-http://190.0.241.181:8000/play/LOVENATURE/index.m3u8
+#http://190.0.241.181:8000/play/LOVENATURE/index.m3u8
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:11,History Channel
 http://181.78.71.5:4890/play/a043/index.m3u8
 #EXTINF:11,HISTORY HD
