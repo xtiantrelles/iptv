@@ -166,19 +166,23 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fed840a2764000720d9
 
 
 #EXTINF:0, RAKUTEN TV ACTION MOVIES
-https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
+#https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
+https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0, RAKUTEN TV SPOTLIGHT
-https://rakuten-spotlight-2-eu.rakuten.wurl.tv/playlist.m3u8
+#https://rakuten-spotlight-2-eu.rakuten.wurl.tv/playlist.m3u8
+https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0, MY TIME MOVIE NETWORK
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:0, RAKUTEN TV COMEDY MOVIES
-https://rakuten-comedymovies-2-eu.rakuten.wurl.tv/playlist.m3u8
+#https://rakuten-comedymovies-2-eu.rakuten.wurl.tv/playlist.m3u8
+https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0, RAKUTEN TV TOP FREE
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:0, RAKUTEN TV FAMILY
 https://rakuten-family-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:0, RAKUTEN TV SHOWS
-https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
+#https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
+https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
 
 
