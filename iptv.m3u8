@@ -42,9 +42,7 @@ https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/i
 #EXTINF:0,NATIVA
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 #EXTINF:0,WILLAX TV
-#https://dai.ly/x7x4dgx
-#https://live-evg4.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_source/chunks.m3u8
-https://live-evg25.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_source/chunks.m3u8
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(CRO5LXFkLPFQUyQKvlklJATmUC6L74gt8jdn2eeltPcLuwvA9HifY20aCAzYu93BvTx_jXr2-sF9MhC_Qr3Tfhw-LbtHb3b48pUZ2bPiiK7FCQTgzQPwJPP-kq7wMjbX)/cloud/3/x7x4dgx/s/live-1080.m3u8
 #EXTINF:0,PBO
 https://live-evg25.tv360.bitel.com.pe/bitel/pbo/bitel/pbo_ori_source/chunks.m3u8
 #EXTINF:0,NACIONAL TV PERU
