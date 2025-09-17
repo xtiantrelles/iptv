@@ -1,4 +1,7 @@
 #EXTM3U
+
+♥♥♥ ESPAÑA ♥♥♥ 
+
 #EXTINF:-1,24h
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
 #EXTINF:-1,La 1
@@ -22,6 +25,7 @@ https://d2xqbi89ghm9hh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 #EXTINF:-1,Conciertos Radio 3
 https://rtvelivestream.rtve.es/eventual/gofast/playm11_main_720.m3u8
 
+♥♥♥ PERU ♥♥♥ 
 
 #EXTINF:39,TV PERU HD
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
@@ -70,9 +74,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/toplatino/chunks.m3u8
 #EXTINF:0,VM LATINO
 https://live-evg25.tv360.bitel.com.pe/bitel/vmlatino/bitel/vmlatino_ori_480p/chunks.m3u8
 
-
-
-
+♥♥♥ INTERNACIONALES ♥♥♥ 
 
 #EXTINF:0,CNN ESPANOL SD
 http://190.0.241.181:8000/play/a06n/index.m3u8
@@ -90,6 +92,10 @@ https://rakuten-euronews-4-es.samsung.wurl.tv/manifest/playlist.m3u8
 https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
 #EXTINF:0,DW ESPANOL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+#EXTINF:0,France 24 Español (1080p)
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+#EXTINF:0,FRANCE24  640
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_500.m3u8
 #EXTINF:0,FRANCE24 ESPANOL HD
 https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTINF:0,RTVE ESPANOL SD
