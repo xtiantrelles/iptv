@@ -71,46 +71,6 @@ https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_480p/chunks.
 #EXTINF:0,KARIBENA
 https://streamtv.onliv3.online:1936/karibtv/karibtv/chunklist_w553159301.m3u8
 
-♥♥♥♥♥♥ PELICULAS ♥♥♥♥♥♥
-
-#EXTINF:0,FMH MOVIES
-https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies/chunks.m3u8
-#EXTINF:0,Like
-https://live-evg25.tv360.bitel.com.pe/bitel/liketv/chunks.m3u8
-#EXTINF:0,Hiperconectados TV
-https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8
-#EXTINF:0,AlternaTV
-https://alternatv.ar/stream/hls/live.m3u8
-#EXTINF:0, RAKUTEN TV ACTION MOVIES
-#https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
-https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0, RAKUTEN TV SPOTLIGHT
-#https://rakuten-spotlight-2-eu.rakuten.wurl.tv/playlist.m3u8
-https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0, MY TIME MOVIE NETWORK
-https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:0, RAKUTEN TV COMEDY MOVIES
-#https://rakuten-comedymovies-2-eu.rakuten.wurl.tv/playlist.m3u8
-https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0, RAKUTEN TV TOP FREE
-https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:0, RAKUTEN TV FAMILY
-https://rakuten-family-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:0, RAKUTEN TV SHOWS
-#https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
-https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8
-
-♥♥♥♥♥♥ SERIES ♥♥♥♥♥♥
-
-#EXTINF:0,CRIMEFLIX
-https://dgx2snzx175pa.cloudfront.net/scheduler/scheduleMaster/391.m3u8
-#EXTINF:0,CRIMENES IMPERFECTOS
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e94cd036cc69d0007e8a1ba/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e26-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5d8759e1-73d6-4b32-b216-07bf992c281a
-#EXTINF:0,CRIMENES REALES
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/632b5950b515b000079e6b81/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285534-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=71f56cc8-59b4-456a-bee7-c5cbe377e506
-#EXTINF:0,CSI
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285532-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ec065848-4bdc-45cb-ad2c-0ef96c23d424
-
 ♥♥♥♥♥♥ INTERNACIONALES ♥♥♥♥♥♥ 
 
 #EXTINF:0,CNN ESPANOL SD
@@ -167,6 +127,48 @@ http://181.119.66.30:8000/play/a051/index.m3u8
 http://181.119.66.30:8000/play/45/index.m3u8
 #EXTINF:0,DISCOVERY WORLD HD
 http://181.119.66.30:8000/play/a04j/index.m3u8
+
+♥♥♥♥♥♥ PELICULAS ♥♥♥♥♥♥
+
+#EXTINF:0,FMH MOVIES
+https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies/chunks.m3u8
+#EXTINF:0,Like
+https://live-evg25.tv360.bitel.com.pe/bitel/liketv/chunks.m3u8
+#EXTINF:0,Hiperconectados TV
+https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8
+#EXTINF:0,AlternaTV
+https://alternatv.ar/stream/hls/live.m3u8
+#EXTINF:0, RAKUTEN TV ACTION MOVIES
+#https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
+https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0, RAKUTEN TV SPOTLIGHT
+#https://rakuten-spotlight-2-eu.rakuten.wurl.tv/playlist.m3u8
+https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0, MY TIME MOVIE NETWORK
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:0, RAKUTEN TV COMEDY MOVIES
+#https://rakuten-comedymovies-2-eu.rakuten.wurl.tv/playlist.m3u8
+https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0, RAKUTEN TV TOP FREE
+https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0, RAKUTEN TV FAMILY
+https://rakuten-family-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0, RAKUTEN TV SHOWS
+#https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
+https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
+♥♥♥♥♥♥ SERIES ♥♥♥♥♥♥
+
+#EXTINF:0,CRIMEFLIX
+https://dgx2snzx175pa.cloudfront.net/scheduler/scheduleMaster/391.m3u8
+#EXTINF:0,CRIMENES IMPERFECTOS
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e94cd036cc69d0007e8a1ba/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e26-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5d8759e1-73d6-4b32-b216-07bf992c281a
+#EXTINF:0,CRIMENES REALES
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/632b5950b515b000079e6b81/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285534-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=71f56cc8-59b4-456a-bee7-c5cbe377e506
+#EXTINF:0,CSI
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285532-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ec065848-4bdc-45cb-ad2c-0ef96c23d424
+
+
 
 ♥♥♥♥♥♥ MUSICALES ♥♥♥♥♥♥
 
