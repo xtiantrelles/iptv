@@ -9,7 +9,7 @@ https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr_720.m3u8
 #EXTINF:-1,La 2
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8
 #EXTINF:-1,Antena 3
-https://atres-live.atresmedia.com/14ed8c91cbb75fdc3462986ebeedba4d19a43e93_ES_1760206072_1760234812/hlsts/live/antena3_usp/antena3_usp.isml/antena3_usp-audio_spa=128000.m3u8
+https://atres-live.atresmedia.com/1c58b7ab9e45c24b7ffa4fc65d6f154faca52c68_ES_1760206504_1760235244/hlsts/live/antena3_usp/antena3_usp.isml/antena3_usp-audio_spa=128000-video=2700000.m3u8
 #EXTINF:-1,La 4
 https://directos.cuatro.com/orilinear09/live/linear09/main/main.isml/main-audio_spa=128000-video=4000000.m3u8
 #EXTINF:0,TVE Internacional America
