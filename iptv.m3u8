@@ -46,7 +46,8 @@ https://jireh-5-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda256
 #EXTINF:0,AMERICA TV HD
 http://181.188.216.5:18000/play/a014/index.m3u8
 #EXTINF:0,PANAMERICANA SD
-https://cdnhd.iblups.com/hls/ptv2.m3u8
+#https://cdnhd.iblups.com/hls/ptv2.m3u8
+http://38.183.182.166:8000/play/a0ii/index.m3u8
 #EXTINF:0,ATV
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:0,ATV+ SD
