@@ -1,6 +1,6 @@
 #EXTM3U
 
-♥♥♥♥♥♥ ESPAÑA ♥♥♥♥♥♥ 
+#♥♥♥♥♥♥ ESPAÑA ♥♥♥♥♥♥ 
 
 #EXTINF:-1,24h
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
@@ -35,7 +35,7 @@ https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1,Conciertos Radio 3
 https://rtvelivestream.rtve.es/eventual/gofast/playm11_main_720.m3u8
 
-♥♥♥♥♥♥ PERU ♥♥♥♥♥♥ 
+#♥♥♥♥♥♥ PERU ♥♥♥♥♥♥ 
 
 #EXTINF:39,TV PERU HD
 #https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
@@ -77,7 +77,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_480p/chunks.
 #EXTINF:0,KARIBENA
 https://streamtv.onliv3.online:1936/karibtv/karibtv/chunklist_w553159301.m3u8
 
-♥♥♥♥♥♥ INTERNACIONALES ♥♥♥♥♥♥ 
+#♥♥♥♥♥♥ INTERNACIONALES ♥♥♥♥♥♥ 
 
 #EXTINF:0,CNN ESPANOL SD
 http://190.0.241.181:8000/play/a06n/index.m3u8
@@ -106,7 +106,7 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 #EXTINF:0,FOX NEWS HD ENG
 http://45.166.92.22:58001/play/a04p/index.m3u8
 
-♥♥♥♥♥♥ DOCUMENTALES ♥♥♥♥♥♥
+#♥♥♥♥♥♥ DOCUMENTALES ♥♥♥♥♥♥
 
 #EXTINF:Pluto TV Naturaleza
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d10ce06a9665fe54bf74a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=962&terminate=false&userId=
@@ -134,7 +134,7 @@ http://181.119.66.30:8000/play/45/index.m3u8
 #EXTINF:0,DISCOVERY WORLD HD
 http://181.119.66.30:8000/play/a04j/index.m3u8
 
-♥♥♥♥♥♥ PELICULAS ♥♥♥♥♥♥
+#♥♥♥♥♥♥ PELICULAS ♥♥♥♥♥♥
 
 #EXTINF:0,FMH MOVIES
 https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies/chunks.m3u8
@@ -163,7 +163,7 @@ https://rakuten-family-2-eu.rakuten.wurl.tv/playlist.m3u8
 #https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
-♥♥♥♥♥♥ SERIES ♥♥♥♥♥♥
+#♥♥♥♥♥♥ SERIES ♥♥♥♥♥♥
 
 #EXTINF:0,CRIMEFLIX
 https://dgx2snzx175pa.cloudfront.net/scheduler/scheduleMaster/391.m3u8
@@ -175,8 +175,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285532-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ec065848-4bdc-45cb-ad2c-0ef96c23d424
 
 
-
-♥♥♥♥♥♥ MUSICALES ♥♥♥♥♥♥
+#♥♥♥♥♥♥ MUSICALES ♥♥♥♥♥♥
 
 #EXTINF:0,TOP LATINO
 https://live-evg25.tv360.bitel.com.pe/bitel/toplatino/chunks.m3u8
