@@ -79,30 +79,28 @@ https://streamtv.onliv3.online:1936/karibtv/karibtv/chunklist_w553159301.m3u8
 
 #♥♥♥♥♥♥ INTERNACIONALES ♥♥♥♥♥♥ 
 
-#EXTINF:0,CNN ESPANOL SD
-http://190.0.241.181:8000/play/a06n/index.m3u8
-#EXTINF:0,CNN Internacional
-https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
-#EXTINF:0,Bloomberg Europe EN
-https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:0,Euronews en Español
-https://rakuten-euronews-4-es.samsung.wurl.tv/manifest/playlist.m3u8
-#EXTINF:-1,Euronews
-https://euronews-live-spa-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/32268491-32c0-4e5f-9c15-521681497c5f/5.m3u8
-#EXTINF:0,RT ESPANOL
-https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
+https://euronews-live-spa-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/cde252dd-79f4-4b6a-8913-03fb0b41f227/5.m3u8
 #EXTINF:0,DW ESPANOL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+#EXTINF:0,RT ESPANOL
+https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
 #EXTINF:0,France 24 Español (1080p)
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:0,FRANCE24  640
-https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_500.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1761345881/ei/-az7aL7DJaWmp-oPuoiQyQk/ip/37.134.47.30/id/Y-IlMeCCtIg.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-vg5obxn25po-h5qee.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AdEuB5Ryjp1urvi05OunBOPXi1zFucFq-Kap-5pjCKi7R7Zuu19KhowvdtSEhA02MU6SWnriNyz-WRiB/spc/6b0G_P_xm3BxmRZt-ISYkp1XyrHIQHbBJT2gOdF4FULRV-vqAGEw/vprv/1/playlist_type/DVR/initcwndbps/3438750/met/1761324282,/mh/2J/mm/44/mn/sn-vg5obxn25po-h5qee/ms/lva/mv/m/mvi/1/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565116,51565682,51580968/mt/1761324029/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRAIgV6CcBhlaFyXJlc8EOtZq_d3gcMMltGuR-ixeOQzeFPwCID8ufv387lHUux-AqPPQQYfl3zTkXe5aqeMDhjzjLWkX/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgdDMfI_yEbLOKGjCOKDm2UleeEJz_cnth5i55AF2Xe9sCIQDjkRKDS7jfP-pnvycWd8JVHqCFMQ4DXjFO5Cqbahz8PQ%3D%3D/playlist/index.m3u8
 #EXTINF:0,FRANCE24 ESPANOL HD
 https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTINF:0,RTVE ESPANOL SD
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_576.m3u8
 #EXTINF:0,CGTN ESPANOL HD
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+#EXTINF:0,CNN ESPANOL SD
+http://190.0.241.181:8000/play/a06n/index.m3u8
+#EXTINF:0,CNN Internacional
+https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
+#EXTINF:0,Bloomberg Europe EN
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:0,FOX NEWS HD ENG
 http://45.166.92.22:58001/play/a04p/index.m3u8
 
