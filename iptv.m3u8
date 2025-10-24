@@ -29,9 +29,14 @@ https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main_720.m3u8
 #EXTINF:-1,RTVE Play
 https://rtvelivestream.rtve.es/rtvesec/oca/irtve02_main_dvr_720.m3u8
-#EXTINF:-1,El Pais
-#https://d2xqbi89ghm9hh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/61287817-5198-440b-b88f-8827b3926cd3/0.m3u8
-https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
+#EXTINF:0,RTVE 1
+https://ztnr.rtve.es/ztnr/6909843.m3u8
+#EXTINF:0,RTVE 2
+https://ztnr.rtve.es/ztnr/2472039.m3u8
+#EXTINF:0,RTVE 3
+https://ztnr.rtve.es/ztnr/16464388.m3u8
+#EXTINF:0,RTVE 4
+https://ztnr.rtve.es/ztnr/6909845.m3u8
 #EXTINF:-1,Conciertos Radio 3
 https://rtvelivestream.rtve.es/eventual/gofast/playm11_main_720.m3u8
 
