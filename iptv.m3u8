@@ -10,6 +10,8 @@ https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr_720.m3u8
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8
 #EXTINF:-1,Antena 3
 https://atres-live.atresmedia.com/1c58b7ab9e45c24b7ffa4fc65d6f154faca52c68_ES_1760206504_1760235244/hlsts/live/antena3_usp/antena3_usp.isml/antena3_usp-audio_spa=128000-video=2700000.m3u8
+#EXTINF:-1,tvg-name="El País",El País
+https://d2uerfl96fh0y6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-98b4w85lugvp4/fast-channel-el-pais/fast-channel-el-pais.m3u8
 #EXTINF:-1,La 4
 https://directos.cuatro.com/orilinear09/live/linear09/main/main.isml/main-audio_spa=128000-video=4000000.m3u8
 #EXTINF:-1,Telecinco
@@ -85,7 +87,7 @@ https://streamtv.onliv3.online:1936/karibtv/karibtv/chunklist_w553159301.m3u8
 #♥♥♥♥♥♥ INTERNACIONALES ♥♥♥♥♥♥ 
 
 #EXTINF:0,Euronews en Español
-https://euronews-live-spa-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/cde252dd-79f4-4b6a-8913-03fb0b41f227/5.m3u8
+https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiMDA0YjY0NTMtYjY2MC00ZTZkLTlkNzEtMTk3YTM3ZDZhZWIxIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjoxfQ==/26034/euronews-es.m3u8
 #EXTINF:0,DW ESPANOL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 #EXTINF:0,RT ESPANOL
