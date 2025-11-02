@@ -105,11 +105,13 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 #EXTINF:0,CNN ESPANOL SD
 http://190.0.241.181:8000/play/a06n/index.m3u8
 #EXTINF:0,CNN Internacional
-https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
+https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
 #EXTINF:0,Bloomberg Europe EN
 https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:0,FOX NEWS HD ENG
 http://45.166.92.22:58001/play/a04p/index.m3u8
+#EXTINF:0,TV5Monde Francia FR
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 
 #♥♥♥♥♥♥ DOCUMENTALES ♥♥♥♥♥♥
 
