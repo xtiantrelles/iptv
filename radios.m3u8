@@ -1,11 +1,11 @@
+################ RADIOS ESPAÑA #######################
+
 #EXTINF:-1, Radio 3
 https://ztnr.rtve.es/ztnr/6982918.m3u8
 #EXTINF:-1, Cadena Ser
 https://25353.live.streamtheworld.com/CADENASERAAC_SC
 #EXTINF:-1, Es Radio
 https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-low.mp3
-#EXTINF:-1, Bandit Classic Rock
-https://radio.garden/listen/bandit-classic-rock/MGk9vm1m
 #EXTINF:-1, Los 40 Classic
 https://21633.live.streamtheworld.com/LOS40_CLASSICAAC_SC?csegid=10000
 #EXTINF:-1, Kiss FM
@@ -14,8 +14,32 @@ https://kissfm.kissfmradio.cires21.com/kissfm.mp3
 https://23613.live.streamtheworld.com/CADENADIALAAC_SC?csegid=2000
 #EXTINF:-1, Radio Nacional
 https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r1_main.m3u8?idasset=1712486
+#EXTINF:-1, Cadena Ser
+https://19993.live.streamtheworld.com/CADENASERAAC.aac
+#EXTINF:-1, Onda Cero
+https://27793.live.streamtheworld.com/OCAAC.aac?ttag=program%253Amas-de-uno
+#EXTINF:-1, Radio Nacional
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_r1_main.m3u8
+#EXTINF:-1, esRadio
+https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-high.aac
+#EXTINF:-1, Radio 5 RNE
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_r5_madrid_main.m3u8
+#EXTINF:-1, Kiss FM
+https://bbkissfm.kissfmradio.cires21.com:8443/bbkissfm/mp3/icecast.audio?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMDcvMjAyNSAwODozNzo1OSBBTSZoYXNoX3ZhbHVlPUhsK1lVMVhhRVJkYlJJYWlGbDNDNEE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD01NDM1MzI5Ng==
+#EXTINF:-1, Rock FM
+https://rockfm-cope.flumotion.com/chunks.m3u8
+#EXTINF:-1, Europa FM
+https://23603.live.streamtheworld.com/EFMAAC.aac?ttag=program%253Acuerpos-especiales-con-nacho-garcia-y-lalachus
+#EXTINF:-1, Total Rock UK
+https://s3.citrus3.com:8056/stream
+#EXTINF:-1, RockStar
+https://stream.emisorasmusicales.net/radio/8060/rockstar.mp3
+#EXTINF:-1, FM Rock % Pop Argentina
+https://27433.live.streamtheworld.com/ROCKANDPOP.mp3
+#EXTINF:-1, Me gastar FM
+https://megastar-cope.flumotion.com/chunks.m3u8
 
-###############################
+################ RADIOS INTERNACIONALES #######################
 
 #EXTINF:-1,90s90s - Grunge
 http://regiocast.streamabc.net/regc-90s90sgrunge7540920-mp3-192-4353468?sABC=649787p6%230%232qqpnss01895rqr0s8oq129o03s183o0%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1687652294
@@ -164,5 +188,5 @@ https://radioz.egostreaming.pe/radio/3e4f6a1b2c3d4e567890abcd/
 #EXTINF:-1,Radio MAGICA
 https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio/68386a6e44ba64f6064b25c9/6839e28eb3fdc597ac2e2e43/icecast.audio
 #EXTINF:-1,Radio INOLVIDABLE
-
 https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/6839e24cf4eacd81ada4e6b4
+
