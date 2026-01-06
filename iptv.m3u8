@@ -21,7 +21,7 @@ https://atres-live.atresmedia.com/feefe503cd8a16049c8c0c946f770f90e27ced9f_ES_17
 #EXTINF:0,TVE Internacional America
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 #EXTINF:0,24 Horas Internacional
-https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
+https://rtvelivestream.rtve.es/rtvesec/oca/irtve02_main_1080.m3u8
 #EXTINF:-1,Trece
 https://live-edge-ff-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
 #EXTINF:-1,El Toro TV
